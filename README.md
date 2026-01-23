@@ -5,6 +5,10 @@ This collection features high-precision DCTLs and plugins designed to elevate yo
 
 🔗 **Official Website:** [RenderHub Plugins](https://renderhub.in/pages/plugins)
 ---
+🎬 **Video Explanations:** [YouTube](https://www.youtube.com/c/SenthilManikandan)
+---
+🎮 **Discord Server:** [The RenderHub](https://renderhub.in/discord)
+---
 ## If you like to support my work you can purchase these same plugins at [renderhub.in](https://renderhub.in/pages/plugins)
 ---
 
