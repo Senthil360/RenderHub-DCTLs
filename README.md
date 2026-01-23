@@ -9,6 +9,10 @@ This collection features high-precision DCTLs and plugins designed to elevate yo
 
 ## 🛠️ Available Tools
 
+### [RH Filmic Colors](https://renderhub.in/products/rh-filmic-colors-dctl)
+🎨 **RH Filmic Colors DCTL** – The Subtractive Film Engine. Beyond Emulation. True Film Physics.
+🎞️ This is not just a grade; it is a reconstruction of your image through a virtual film stock.
+
 ### [Rh MidControl PRO](https://renderhub.in/products/rh-mid-control-pro-dctl)
 🎚️ **Master Your Contrast:** Achieve atomic precision in your grading workflow with total control.
 🚀 **The Ultimate Tool:** Redefine how you handle tonal ranges using advanced, professional algorithms.
