@@ -4,7 +4,8 @@ Welcome to the official code repository for **RenderHub Tools**.
 This collection features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow.
 
 🔗 **Official Website:** [RenderHub Plugins](https://renderhub.in/pages/plugins)
-
+---
+## If you like to support my work you can purchase these same plugins at [renderhub.in](https://renderhub.in/pages/plugins)
 ---
 
 ## 🛠️ Available Tools
