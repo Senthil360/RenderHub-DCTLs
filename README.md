@@ -7,11 +7,11 @@ This collection features high-precision DCTLs and plugins designed to elevate yo
 INFO - DCTLs coming soon with MAC support
 ---
 
-🔗 **Official Website:** [RenderHub Plugins](https://renderhub.in/pages/plugins)
+🔗 **Official Website:** [RenderHub](https://renderhub.in/pages/plugins)
 ---
 🎬 **Video Explanations:** [YouTube](https://www.youtube.com/c/SenthilManikandan)
 ---
-🎮 **Discord Server:** [The RenderHub](https://renderhub.in/discord)
+🎮 **Discord :** [The RenderHub](https://renderhub.in/discord)
 ---
 ## If you like to support my work you can purchase these same plugins at [renderhub.in](https://renderhub.in/pages/plugins)
 ---
@@ -21,7 +21,7 @@ INFO - DCTLs coming soon with MAC support
 ### [RH Filmic Colors](https://renderhub.in/products/rh-filmic-colors-dctl)
 🎨 **RH Filmic Colors DCTL** – The Subtractive Film Engine. Beyond Emulation. True Film Physics.
 🎞️ This is not just a grade; it is a reconstruction of your image through a virtual film stock.
-🔗 **How does it work Behind the Screen:** [The Science Behind RH Filmic Colors](https://renderhub.in/blogs/color-science/rh-filmic-colors-the-architecture-of-subtractive-density)
+🔗 *How does it work Behind the Screen:* [The Science Behind RH Filmic Colors](https://renderhub.in/blogs/color-science/rh-filmic-colors-the-architecture-of-subtractive-density)
 
 ### [Rh MidControl PRO](https://renderhub.in/products/rh-mid-control-pro-dctl)
 🎚️ **Master Your Contrast:** Achieve atomic precision in your grading workflow with total control.
