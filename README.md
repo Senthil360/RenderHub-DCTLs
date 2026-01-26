@@ -4,12 +4,12 @@ Welcome to the official code repository for **RenderHub Tools**.
 This collection features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow.
 
 ---
-INFO - DCTLs coming soon with MAC support
+*INFO - DCTLs coming soon with Mac OS support*
 ---
 
 🔗 **Official Website:** [RenderHub](https://renderhub.in/pages/plugins)
 ---
-🎬 **Video Explanations:** [YouTube](https://www.youtube.com/c/SenthilManikandan)
+🎬 **Video Demos:** [YouTube](https://www.youtube.com/c/SenthilManikandan)
 ---
 🎮 **Discord :** [The RenderHub](https://renderhub.in/discord)
 ---
