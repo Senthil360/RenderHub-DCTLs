@@ -5,6 +5,10 @@ This collection features high-precision DCTLs and plugins designed to elevate yo
 
 ---
 *INFO - DCTLs coming soon with Mac OS support*
+
+All Downloads are found here : [Releases](https://github.com/Senthil360/RenderHub-DCTLs/releases/tag/DCTL)
+<img width="513" height="176" alt="image" src="https://github.com/user-attachments/assets/6f70a374-c8ad-4fc8-a7a3-1e10da0f2fac" />
+
 ---
 
 🔗 **Official Website:** [RenderHub](https://renderhub.in/pages/plugins)
@@ -19,6 +23,7 @@ This collection features high-precision DCTLs and plugins designed to elevate yo
 ## 🛠️ Available Tools
 
 ### [RH Filmic Colors](https://renderhub.in/products/rh-filmic-colors-dctl)
+#### How to Use (Read Wiki) : [CLICK HERE](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Filmic-Colors-DCTL)
 🎨 **RH Filmic Colors DCTL** – The Subtractive Film Engine. Beyond Emulation. True Film Physics.
 🎞️ This is not just a grade; it is a reconstruction of your image through a virtual film stock.
 🔗 *How does it work Behind the Screen:* [The Science Behind RH Filmic Colors](https://renderhub.in/blogs/color-science/rh-filmic-colors-the-architecture-of-subtractive-density)
