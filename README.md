@@ -1,51 +1,53 @@
 # 🎨 RenderHub DCTLs & Plugins
 
-Welcome to the official code repository for **RenderHub Tools**.
-This collection features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow.
+> **High-Fidelity Color Tools for DaVinci Resolve Studio**
 
 ---
 
-All Downloads are found here : [Releases](https://github.com/Senthil360/RenderHub-DCTLs/releases/)
----
+## 📥 **Downloads & Updates**
 
-🔗 **Official Website:** [RenderHub](https://renderhub.in/pages/plugins)
----
-🎬 **Video Demos:** [YouTube](https://www.youtube.com/c/SenthilManikandan)
----
-🎮 **Discord :** [The RenderHub](https://renderhub.in/discord)
----
-## If you like to support my work you can purchase these same plugins at [renderhub.in](https://renderhub.in/pages/plugins)
----
+### [🚀 **LATEST RELEASES**](https://github.com/Senthil360/RenderHub-DCTLs/releases/)
+*Grab the latest versions of all tools here.*
 
-## 🛠️ Available Tools
-
-### [RH Filmic Colors](https://renderhub.in/products/rh-filmic-colors-dctl)
-#### How to Use (Read Wiki) : [CLICK HERE](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Filmic-Colors-DCTL)
-🎨 **RH Filmic Colors DCTL** – The Subtractive Film Engine. Beyond Emulation. True Film Physics.
-🎞️ This is not just a grade; it is a reconstruction of your image through a virtual film stock.
-🔗 *How does it work Behind the Screen:* [The Science Behind RH Filmic Colors](https://renderhub.in/blogs/color-science/rh-filmic-colors-the-architecture-of-subtractive-density)
-
-### [Rh MidControl PRO](https://renderhub.in/products/rh-mid-control-pro-dctl)
-🎚️ **Master Your Contrast:** Achieve atomic precision in your grading workflow with total control.
-🚀 **The Ultimate Tool:** Redefine how you handle tonal ranges using advanced, professional algorithms.
-
-### [RH Gamut Analyzer](https://renderhub.in/products/rh-gamut-analyzer-dctl)
-🎨 **Pinpoint Color Accuracy:** Visualize your gamut with surgical precision for perfect technical grades.
-👁️ **For the Obsessive Colorist:** Ensure every knob turn lands exactly where it needs to be.
-
-### [RH Mid Control](https://renderhub.in/products/rh-mid-control-plugin)
-⚖️ **Visual Pivot Control:** See exactly where your contrast pivots for perfectly balanced images.
-🎮 **Game-Changing Workflow:** Adjust contrast with intuitive, real-time visual feedback.
-
-### Rh Text Engine *(Coming Soon)*
-📝 **Text Plus Reimagined:** A complete, powerful overhaul of Resolve's native titling engine.
-⏳ **Next-Gen Titling:** Prepare for a new standard in text animation and design capability.
-
-### RH Transitions *(Coming Soon)*
-🎬 **Seamless Storytelling:** Transitions designed to either scream for attention or whisper invisible cuts.
-🎞️ **Versatile Rhythm:** A curated pack built to match any editing style you choose.
+[🏷️ **View All Versions (Tags)**](https://github.com/Senthil360/RenderHub-DCTLs/tags)
 
 ---
 
-### 📥 Installation & Support
-For installation guides, updates, and support, please visit [renderhub.in](https://renderhub.in).
+## 🌟 **Welcome**
+Welcome to the official code repository for **RenderHub Tools**. This collection features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow with subtractive color science and atomic control.
+
+### 🤝 **Join the Community**
+🌐 [**Website**](https://renderhub.in/pages/plugins) | 🎬 [**YouTube**](https://www.youtube.com/c/SenthilManikandan) | 🎮 [**Discord**](https://renderhub.in/discord) | ❤️ [**Support / Store**](https://renderhub.in/pages/plugins)
+
+---
+
+## 🛠️ **The Collection**
+
+### 🎞️ [**RH Filmic Colors**](https://renderhub.in/products/rh-filmic-colors-dctl)
+> **The Subtractive Film Engine.** Beyond emulation—true film physics.
+> *Reconstruct your image through a virtual film stock.*
+
+- **📖 [Documentation / Wiki](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Filmic-Colors-DCTL) (Must Read!)**
+- 🔬 [The Science Behind It](https://renderhub.in/blogs/color-science/rh-filmic-colors-the-architecture-of-subtractive-density)
+
+### ⚖️ [**RH MidControl**](https://renderhub.in/products/rh-mid-control-pro-dctl)
+> **Dynamic Contrast Engine.**
+> *Redefine your tonal handling with user-definable pivots and precise curves.*
+
+- **📖 [Documentation / Wiki](RH-MidControl.md)**
+- 🚀 **Features:** Shadows/Highlight Split, Custom Curve Types, 6-Vector Control.
+
+### 🎯 [**RH Gamut Analyzer**](https://renderhub.in/products/rh-gamut-analyzer-dctl)
+> **Surgical Color Precision.**
+> *Visualize your gamut boundaries and hit your technical targets with confidence.*
+
+### 📝 **Rh Text Engine** *(Coming Soon)*
+> *Next-Gen Titling for DaVinci Resolve.*
+
+### 🎬 **RH Transitions** *(Coming Soon)*
+> *Seamless Storytelling Tools.*
+
+---
+
+### � **Support**
+For installation guides and commercial licenses, please visit **[renderhub.in](https://renderhub.in)**.
