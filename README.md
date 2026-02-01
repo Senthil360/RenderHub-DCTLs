@@ -6,8 +6,6 @@ This collection features high-precision DCTLs and plugins designed to elevate yo
 ---
 
 All Downloads are found here : [Releases](https://github.com/Senthil360/RenderHub-DCTLs/releases/)
-<img width="513" height="176" alt="image" src="https://github.com/user-attachments/assets/6f70a374-c8ad-4fc8-a7a3-1e10da0f2fac" />
-
 ---
 
 🔗 **Official Website:** [RenderHub](https://renderhub.in/pages/plugins)
