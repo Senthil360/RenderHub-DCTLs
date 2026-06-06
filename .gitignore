@@ -1,0 +1,6 @@
+
+.env
+__pycache__/
+release_manager.py
+requirements.txt
+config/
