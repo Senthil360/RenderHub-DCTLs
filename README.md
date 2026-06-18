@@ -38,7 +38,7 @@ These are not presets, LUT packs, or one-click film looks.
 - Global hue, saturation, and exposure controls
 - Built-in curve visualiser
 
-👉 [Wiki — RH Filmic Colors](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Filmic-Colors)
+👉 [Wiki — RH Filmic Colors](https://github.com/Senthil360/RenderHub-DCTLs/wiki#-rh-filmic-colors)
 
 ---
 
