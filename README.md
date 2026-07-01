@@ -7,6 +7,7 @@
 ## 📥 Downloads & Updates
 
 ### [🚀 **LATEST RELEASES**](https://github.com/Senthil360/RenderHub-DCTLs/releases/)
+### Latest Version released on - July 01 2026
 *Grab the latest versions of all tools here.*
 
 [🏷️ **View All Versions (Tags)**](https://github.com/Senthil360/RenderHub-DCTLs/tags)
