@@ -55,7 +55,7 @@ These are not presets, LUT packs, or one-click film looks.
 
 ---
 
-### 🎨 RH End Tones Sculptor *(New)*
+### 🎨 RH End Tones Sculptor
 > **Shadow & Highlight Sculpting Engine.** Precise, zone-isolated control over the colour character of your shadows and highlights — RGB balance, saturation, and hue rotation per zone, with no bleed into midtones.
 
 - Independent shadow and highlight zones with adjustable pivots and softness
@@ -69,7 +69,7 @@ These are not presets, LUT packs, or one-click film looks.
 
 ---
 
-### 🎡 RH Hue Compressor *(New)*
+### 🎡 RH Hue Compressor
 > **6-Vector Hue Compression Engine.** Pulls stray hues toward their natural target angle proportionally — the further a hue sits from the target, the stronger the pull. Hues already at centre are untouched.
 
 - 6 independent vectors: Red, Yellow, Green, Cyan, Blue, Magenta
@@ -82,7 +82,7 @@ These are not presets, LUT packs, or one-click film looks.
 
 ---
 
-### 🚦 RH Chroma Gate *(New)*
+### 🚦 RH Chroma Gate
 > **6-Vector Per-Zone Chroma Control.** Saturation control with two axes: hue vector and tonal zone. 18 independent saturation multipliers across 6 hue families × 3 tonal zones.
 
 - 6 hue vectors × 3 tonal zones (shadow / mid / highlight) = 18 controls
@@ -93,6 +93,20 @@ These are not presets, LUT packs, or one-click film looks.
 - Default is a perfect pass-through — nothing changes unless you move a slider
 
 👉 [Wiki — RH Chroma Gate](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Chroma-Gate)
+
+---
+
+### 🎛️ RH Subtractive Mixer *(New)*
+> **Subtractive Color Grading in CMY Density Space.** A highly specialized film emulation tool that performs true subtractive color mixing by converting your image into CMY Dye Density Space — simulating physical film dye absorption for rich, deep, and thick cinematic colors.
+
+- **CMY Dye Density Space** conversion for true subtractive color shifts (adding color density removes light)
+- Mathematically perfect **Luminance Lock** to preserve original perceptual brightness while adding intense saturation
+- **Pure Hue Isolation** ensures color shifts only affect saturated objects without tinting neutral gray balance
+- 6 independent CMY & RGB subtractive shift sliders for organic hue manipulation
+- **Subtractive Saturation** multiplier for achieving thick, dense saturation without video-like brightness boost
+- Global **Shift Sensitivity** dampener for fine-grained slider control
+
+👉 [Wiki — RH Subtractive Mixer](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Subtractive-Mixer)
 
 ---
 
