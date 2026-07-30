@@ -2,6 +2,7 @@
 
 > **High-Fidelity Color Tools for DaVinci Resolve Studio**
 
+### These DCTLs are released for free and have one month expiry period and they will be updated each month,  and you need to update it manually each month to avoid expiry
 ---
 
 ## 📥 Downloads & Updates
