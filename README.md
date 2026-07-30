@@ -117,7 +117,7 @@ These are not presets, LUT packs, or one-click film looks.
 
 - **Density-Dependent Crossfade Architecture:** Runs spectral film dye simulation in shadows and cleanly crossfades to an additive digital curve in highlights
 - **Multi-Layer Emulsion & DIR Couplers:** Simulates Fast and Slow sublayers for organic contrast, with chemical cross-talk to create deep color separation
-- **36-Band Spectral Integration:** Models light absorption across 36 physical wavelengths against Illuminant D65
+- **Spectral Integration:** Models light absorption across against Illuminant D65
 - **Physical Film Artifact Controls:** True silver retention, physical halation emulation, and adjustable fog levels
 - **Dye Tuning:** Tune the spectral absorption multipliers for each individual dye layer before CIE color matching integration
 - **Visual Aids:** Built-in curve visualiser for tuning the Fast-Slow Ratio, Contrast, and Blend Transition
