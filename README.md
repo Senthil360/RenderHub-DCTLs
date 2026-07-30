@@ -98,7 +98,7 @@ These are not presets, LUT packs, or one-click film looks.
 
 ---
 
-### 🎛️ RH Subtractive Mixer *(New)*
+### 🎛️ RH Subtractive Mixer
 > **Subtractive Color Grading in CMY Density Space.** A highly specialized film emulation tool that performs true subtractive color mixing by converting your image into CMY Dye Density Space — simulating physical film dye absorption for rich, deep, and thick cinematic colors.
 
 - **CMY Dye Density Space** conversion for true subtractive color shifts (adding color density removes light)
@@ -109,6 +109,20 @@ These are not presets, LUT packs, or one-click film looks.
 - Global **Shift Sensitivity** dampener for fine-grained slider control
 
 👉 [Wiki — RH Subtractive Mixer](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Subtractive-Mixer)
+
+---
+
+### 🎞️ RH Hybrid Dye Engine *(New)*
+> **Spectral Film Chemistry & Additive Digital Fusion.** An advanced film emulation and color grading tool that runs two completely distinct image processing pipelines in parallel and intelligently blends them based on scene exposure.
+
+- **Density-Dependent Crossfade Architecture:** Runs spectral film dye simulation in shadows and cleanly crossfades to an additive digital curve in highlights
+- **Multi-Layer Emulsion & DIR Couplers:** Simulates Fast and Slow sublayers for organic contrast, with chemical cross-talk to create deep color separation
+- **36-Band Spectral Integration:** Models light absorption across 36 physical wavelengths against Illuminant D65
+- **Physical Film Artifact Controls:** True silver retention, physical halation emulation, and adjustable fog levels
+- **Dye Tuning:** Tune the spectral absorption multipliers for each individual dye layer before CIE color matching integration
+- **Visual Aids:** Built-in curve visualiser for tuning the Fast-Slow Ratio, Contrast, and Blend Transition
+
+👉 [Wiki — RH Hybrid Dye Engine](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Hybrid-Dye-Engine)
 
 ---
 
