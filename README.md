@@ -29,6 +29,27 @@ These are not presets, LUT packs, or one-click film looks.
 
 ---
 
+## 💿 Installation
+
+*Note: Native DCTL support requires **DaVinci Resolve Studio** (the paid version).*
+
+### How to install DCTLs in Davinci Resolve Studio
+1. Open DaVinci Resolve.
+2. Go to **File > Project Settings** (or press `Shift + 9`).
+3. Navigate to the **Color Management** tab.
+4. Scroll down to the **Lookup Tables** section and click the **Open LUT Folder** button.
+5. Create a new folder called 'RenderHub'
+6. Place the downloaded `.dctle` files into this folder.
+7. **Restart DaVinci Resolve** for the changes to take effect.
+8. The tools will now be available in the Color Page under the **Effects** panel (drag the **DCTL** OpenFX node onto a node and select the tool from the dropdown).
+
+### Manual Installation Paths
+If you prefer to copy the files manually, the default directories are:
+- **macOS:** `/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/`
+- **Windows:** `C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\`
+
+---
+
 ## 🛠️ The Collection
 
 ### 🎞️ RH Filmic Colors
