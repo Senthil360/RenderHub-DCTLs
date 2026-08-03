@@ -32,6 +32,7 @@ These are not presets, LUT packs, or one-click film looks.
 ## 💿 Installation
 
 *Note: Native DCTL support requires **DaVinci Resolve Studio** (the paid version).*
+*You can try using the installers in the 'installer' folder. If that does not work, follow the instructions below.*
 
 ### How to install DCTLs in Davinci Resolve Studio
 1. Open DaVinci Resolve.
