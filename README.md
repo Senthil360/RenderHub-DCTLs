@@ -49,6 +49,7 @@ If you prefer to copy the files manually, the default directories are:
 - **macOS:** `/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/`
 - **Windows:** `C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\`
 
+🎬 [**Video Guide**](https://youtu.be/gxFVYyTGwoM)
 ---
 
 ## 🛠️ The Collection
