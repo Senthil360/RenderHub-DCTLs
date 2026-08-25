@@ -25,7 +25,7 @@ All tools assume:
 These are not presets, LUT packs, or one-click film looks.
 
 ### 🤝 Join the Community
-🌐 [**Website**](https://renderhub.in/pages/plugins) | 🎬 [**YouTube**](https://www.youtube.com/c/SenthilManikandan) | 🎮 [**Discord**](https://renderhub.in/discord) | ❤️ [**Support / Store**](https://renderhub.in/pages/plugins)
+🌐 [**Website**](https://renderhub.in) | 🎬 [**YouTube**](https://www.youtube.com/c/SenthilManikandan) | 🎮 [**Discord**](https://renderhub.in/discord) | ❤️ [**Instagram**](https://www.instagram.com/colorwizard_30)
 
 ---
 
