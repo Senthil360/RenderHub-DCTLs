@@ -1,21 +1,28 @@
-MIT License
+# RenderHub Community License Agreement
 
-Copyright (c) 2026 Dr Senthil Manikandan
+Copyright (c) [2026] [Senthil Manikandan / RenderHub]. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license governs the use of the encrypted DCTL files, binaries, and accompanying materials (the "Software") provided by [Senthil Manikandan / The RenderHub] ("Senthil Manikandan").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By downloading, installing, or using the Software, you agree to be bound by the terms of this License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 1. Grant of License
+The Author grants you a worldwide, royalty-free, non-exclusive, perpetual license to:
+* Download, install, and execute the Software within DaVinci Resolve or compatible host applications.
+* Use the Software for an unlimited number of personal, educational, and commercial video production, color grading, and rendering projects ("Rendered Output").
+* Distribute, broadcast, monetize, and exhibit any Rendered Output created using the Software without royalty or attribution obligations.
+
+### 2. Restrictions and Intellectual Property
+The Software is licensed, not sold. All rights, title, and interest in the implementation, mathematical optimizations, and compiled binary remain the exclusive intellectual property of the Author.
+
+You may NOT:
+* Decompile, decrypt, reverse engineer, disassemble, or attempt to derive the source code of the encrypted `.dctle` files.
+* Sell, rent, lease, sub-license, or charge any fee for the distribution or download of the Software itself.
+* Repackage, bundle, or incorporate the compiled Software into a commercial plugin, software application, or standalone paid product without express written permission from the Author.
+* Use automated extraction, scraping, or machine-learning model training to reconstruct the proprietary implementation directly from the binary.
+
+### 3. Open Documentation & Independent Implementation
+The documentation, theoretical principles, and general mathematical concepts published alongside this Software are provided for educational and community benefit. You are free to independently develop your own clean-room implementations based on the published conceptual documentation, provided you do not infringe on the Author’s proprietary binary implementation, trademarks, or copyrighted materials.
+
+### 4. Disclaimer of Warranty & Limitation of Liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
