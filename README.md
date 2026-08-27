@@ -2,7 +2,7 @@
 
 > **High-Fidelity Color Tools for DaVinci Resolve Studio**
 
-### NOTE : On requests from the Colorist community, from the September of 2026, the releases will not have an expiry period. 
+### NOTE : On requests from the Colorist community, from the September of 2026, the releases will not have the monthly expiry period. All tools will be live until Dec 31 2026, 23:59 IST. 
 ---
 
 ## 📥 Downloads & Updates
