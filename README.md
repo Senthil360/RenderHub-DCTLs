@@ -56,32 +56,6 @@ If you prefer to copy the files manually, the default directories are:
 
 ## 🛠️ The Collection
 
-### 🎞️ RH Filmic Colors
-> **The Subtractive Film Engine.** A density-based color model that preserves chromatic richness under contrast and exposure changes — built on real dye absorption physics, not LUT approximations.
-
-- Density-based CMY dye simulation in DWG scene-linear space
-- Smart Split Toning with hue-selective shadow and highlight toning
-- Tonescale with adjustable shape curve
-- Global hue, saturation, and exposure controls
-- Built-in curve visualiser
-
-👉 [Documentation — RH Filmic Colors](https://renderhub.in/docs/rh-filmic-colors)
-
----
-
-### 🎚️ RH MidControl
-> **Dynamic Contrast & Exposure Engine.** Pivots contrast around a user-definable mid point, allowing asymmetric shadow and highlight control independent of each other.
-
-- User-definable mid point pivot (replaces fixed 0.18 / 0.5 grey)
-- Independent shadow and highlight curve types: Hermite, Sine, Quadratic
-- Per-channel (RGB) vector controls for low and high regions
-- Black point / white point level controls
-- Show Mid Selection and Show Curves diagnostic overlays
-
-👉 [Documentation — RH MidControl](https://renderhub.in/docs/rh-midcontrol)
-
----
-
 ### 🎨 RH End Tones Sculptor
 > **Shadow & Highlight Sculpting Engine.** Precise, zone-isolated control over the colour character of your shadows and highlights — RGB balance, saturation, and hue rotation per zone, with no bleed into midtones.
 
@@ -149,7 +123,32 @@ If you prefer to copy the files manually, the default directories are:
 
 👉 [Documentation — RH Hybrid Dye Engine](https://renderhub.in/docs/rh-hybrid-dye-engine)
 
+### 🎞️ RH Filmic Colors
+> **The Subtractive Film Engine.** A density-based color model that preserves chromatic richness under contrast and exposure changes — built on real dye absorption physics, not LUT approximations.
+
+- Density-based CMY dye simulation in DWG scene-linear space
+- Smart Split Toning with hue-selective shadow and highlight toning
+- Tonescale with adjustable shape curve
+- Global hue, saturation, and exposure controls
+- Built-in curve visualiser
+
+👉 [Documentation — RH Filmic Colors](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Filmic-Colors)
+
 ---
+
+### 🎚️ RH MidControl
+> **Dynamic Contrast & Exposure Engine.** Pivots contrast around a user-definable mid point, allowing asymmetric shadow and highlight control independent of each other.
+
+- User-definable mid point pivot (replaces fixed 0.18 / 0.5 grey)
+- Independent shadow and highlight curve types: Hermite, Sine, Quadratic
+- Per-channel (RGB) vector controls for low and high regions
+- Black point / white point level controls
+- Show Mid Selection and Show Curves diagnostic overlays
+
+👉 [Documentation — RH MidControl](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-MidControl)
+
+---
+
 
 ## 📖 Documentation
 
