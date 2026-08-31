@@ -2,7 +2,7 @@
 
 > **High-Fidelity Color Tools for DaVinci Resolve Studio**
 
-> 🌐 **[Visit renderhub.in](https://renderhub.in/pages/plugins) for comprehensive tutorials, visual guides, and our full suite of premium color tools!**
+> 🌐 **[Visit renderhub.in](https://renderhub.in) for comprehensive tutorials, visual guides, and our full suite of premium color tools!**
 
 ### NOTE : On requests from the Colorist community, from the September of 2026, the releases will not have the monthly expiry period. All tools will be live until Dec 31 2026, 23:59 IST.
 ---
