@@ -65,7 +65,7 @@ If you prefer to copy the files manually, the default directories are:
 - Global hue, saturation, and exposure controls
 - Built-in curve visualiser
 
-👉 [Documentation — RH Filmic Colors](https://renderhub.in/pages/plugins)
+👉 [Documentation — RH Filmic Colors](https://renderhub.in/docs/rh-filmic-colors)
 
 ---
 
@@ -78,7 +78,7 @@ If you prefer to copy the files manually, the default directories are:
 - Black point / white point level controls
 - Show Mid Selection and Show Curves diagnostic overlays
 
-👉 [Documentation — RH MidControl](https://renderhub.in/pages/plugins)
+👉 [Documentation — RH MidControl](https://renderhub.in/docs/rh-midcontrol)
 
 ---
 
@@ -92,7 +92,7 @@ If you prefer to copy the files manually, the default directories are:
 - Live RGB curve visualiser with per-channel curves and tint swatches
 - Zone mask diagnostic mode
 
-👉 [Documentation — RH End Tones Sculptor](https://renderhub.in/pages/plugins)
+👉 [Documentation — RH End Tones Sculptor](https://renderhub.in/docs/rh-end-tones-sculptor)
 
 ---
 
@@ -105,7 +105,7 @@ If you prefer to copy the files manually, the default directories are:
 - Global Blend for wet/dry mix across all vectors simultaneously
 - Pure angular operation — saturation and luminance are not affected
 
-👉 [Documentation — RH Hue Compressor](https://renderhub.in/pages/plugins)
+👉 [Documentation — RH Hue Compressor](https://renderhub.in/docs/rh-hue-compressor)
 
 ---
 
@@ -119,7 +119,7 @@ If you prefer to copy the files manually, the default directories are:
 - False-colour zone mask visualiser (Red = highlights, Green = mids, Blue = shadows)
 - Default is a perfect pass-through — nothing changes unless you move a slider
 
-👉 [Documentation — RH Chroma Gate](https://renderhub.in/pages/plugins)
+👉 [Documentation — RH Chroma Gate](https://renderhub.in/docs/rh-chroma-gate)
 
 ---
 
@@ -133,7 +133,7 @@ If you prefer to copy the files manually, the default directories are:
 - **Subtractive Saturation** multiplier for achieving thick, dense saturation without video-like brightness boost
 - Global **Shift Sensitivity** dampener for fine-grained slider control
 
-👉 [Documentation — RH Subtractive Mixer](https://renderhub.in/pages/plugins)
+👉 [Documentation — RH Subtractive Mixer](https://renderhub.in/docs/rh-subtractive-mixer)
 
 ---
 
@@ -147,13 +147,13 @@ If you prefer to copy the files manually, the default directories are:
 - **Dye Tuning:** Tune the spectral absorption multipliers for each individual dye layer before CIE color matching integration
 - **Visual Aids:** Built-in curve visualiser for tuning the Fast-Slow Ratio, Contrast, and Blend Transition
 
-👉 [Documentation — RH Hybrid Dye Engine](https://renderhub.in/pages/plugins)
+👉 [Documentation — RH Hybrid Dye Engine](https://renderhub.in/docs/rh-hybrid-dye-engine)
 
 ---
 
 ## 📖 Documentation
 
-Full usage documentation, control references, and workflow guidance are available on the [**RenderHub Website**](https://renderhub.in/pages/plugins).
+Full usage documentation, control references, and workflow guidance are available on the [**RenderHub Website**](https://renderhub.in/docs).
 
 ---
 
