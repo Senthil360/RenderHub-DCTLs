@@ -2,7 +2,9 @@
 
 > **High-Fidelity Color Tools for DaVinci Resolve Studio**
 
-### NOTE : On requests from the Colorist community, from the September of 2026, the releases will not have the monthly expiry period. All tools will be live until Dec 31 2026, 23:59 IST. 
+> 🌐 **[Visit renderhub.in](https://renderhub.in/pages/plugins) for comprehensive tutorials, visual guides, and our full suite of premium color tools!**
+
+### NOTE : On requests from the Colorist community, from the September of 2026, the releases will not have the monthly expiry period. All tools will be live until Dec 31 2026, 23:59 IST.
 ---
 
 ## 📥 Downloads & Updates
@@ -63,7 +65,7 @@ If you prefer to copy the files manually, the default directories are:
 - Global hue, saturation, and exposure controls
 - Built-in curve visualiser
 
-👉 [Wiki — RH Filmic Colors](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Filmic-Colors)
+👉 [Documentation — RH Filmic Colors](https://renderhub.in/pages/plugins)
 
 ---
 
@@ -76,7 +78,7 @@ If you prefer to copy the files manually, the default directories are:
 - Black point / white point level controls
 - Show Mid Selection and Show Curves diagnostic overlays
 
-👉 [Wiki — RH MidControl](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-MidControl)
+👉 [Documentation — RH MidControl](https://renderhub.in/pages/plugins)
 
 ---
 
@@ -90,7 +92,7 @@ If you prefer to copy the files manually, the default directories are:
 - Live RGB curve visualiser with per-channel curves and tint swatches
 - Zone mask diagnostic mode
 
-👉 [Wiki — RH End Tones Sculptor](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-End-Tones-Sculptor)
+👉 [Documentation — RH End Tones Sculptor](https://renderhub.in/pages/plugins)
 
 ---
 
@@ -103,7 +105,7 @@ If you prefer to copy the files manually, the default directories are:
 - Global Blend for wet/dry mix across all vectors simultaneously
 - Pure angular operation — saturation and luminance are not affected
 
-👉 [Wiki — RH Hue Compressor](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Hue-Compressor)
+👉 [Documentation — RH Hue Compressor](https://renderhub.in/pages/plugins)
 
 ---
 
@@ -117,7 +119,7 @@ If you prefer to copy the files manually, the default directories are:
 - False-colour zone mask visualiser (Red = highlights, Green = mids, Blue = shadows)
 - Default is a perfect pass-through — nothing changes unless you move a slider
 
-👉 [Wiki — RH Chroma Gate](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Chroma-Gate)
+👉 [Documentation — RH Chroma Gate](https://renderhub.in/pages/plugins)
 
 ---
 
@@ -131,7 +133,7 @@ If you prefer to copy the files manually, the default directories are:
 - **Subtractive Saturation** multiplier for achieving thick, dense saturation without video-like brightness boost
 - Global **Shift Sensitivity** dampener for fine-grained slider control
 
-👉 [Wiki — RH Subtractive Mixer](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Subtractive-Mixer)
+👉 [Documentation — RH Subtractive Mixer](https://renderhub.in/pages/plugins)
 
 ---
 
@@ -145,13 +147,13 @@ If you prefer to copy the files manually, the default directories are:
 - **Dye Tuning:** Tune the spectral absorption multipliers for each individual dye layer before CIE color matching integration
 - **Visual Aids:** Built-in curve visualiser for tuning the Fast-Slow Ratio, Contrast, and Blend Transition
 
-👉 [Wiki — RH Hybrid Dye Engine](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Hybrid-Dye-Engine)
+👉 [Documentation — RH Hybrid Dye Engine](https://renderhub.in/pages/plugins)
 
 ---
 
 ## 📖 Documentation
 
-Full usage documentation, control references, and workflow guidance are available in the [**Wiki**](https://github.com/Senthil360/RenderHub-DCTLs/wiki).
+Full usage documentation, control references, and workflow guidance are available on the [**RenderHub Website**](https://renderhub.in/pages/plugins).
 
 ---
 
