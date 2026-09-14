@@ -4,7 +4,7 @@
 
 > 🌐 **[Visit renderhub.in](https://renderhub.in) for comprehensive tutorials, visual guides, and our full suite of premium color tools!**
 
-### NOTE : On requests from the Colorist community, from the September of 2026, the releases will not have the monthly expiry period. All tools will be live until Dec 31 2026, 23:59 IST.
+### 🌟🌟🌟 IMPORTANT : One of the two Flagship DCTLs, **RH DRT** is now in private beta, [subscribe](https://renderhub.in/rh-drt) to get early access and discounts. 🌟🌟🌟
 ---
 
 ## 📥 Downloads & Updates
