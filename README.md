@@ -163,7 +163,10 @@ If you prefer to copy the files manually, the default directories are:
 C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\
 ```
 
-🎬 [**Video Guide on Installation**](https://youtu.be/gxFVYyTGwoM)
+### 🎬 Video Guide on Installation
+<a href="https://youtu.be/gxFVYyTGwoM">
+  <img src="https://img.youtube.com/vi/gxFVYyTGwoM/maxresdefault.jpg" alt="Watch Video Guide on Installation" width="480" />
+</a>
 
 ---
 
