@@ -73,7 +73,7 @@
       <sub><strong>RH MidControl</strong></sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-drt">
+      <a href="https://renderhub.in/rh-drt">
         <img src="assets/dctl_square_thumbs_RH_filmic_colors_drt.png" alt="RH DRT" width="160" />
       </a><br />
       <sub><strong>RH DRT</strong><br /><em>(Coming Dec 2026)</em></sub>
