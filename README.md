@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-filmic-colors">
+      <a href="https://renderhub.in/rh-drt">
         <img src="assets/dctl_square_thumbs_filmic_colors.png" alt="RH Filmic Colors" width="160" />
       </a><br />
       <sub><strong>RH Filmic Colors</strong></sub>
@@ -101,9 +101,9 @@
 - **[RH Chroma Gate](https://renderhub.in/products/rh-chroma-gate)** — *Control Saturation differently in Low, Mid and High.* 18-control per-zone chroma matrix (6 hue vectors × 3 tonal zones) in Reuleaux (HRO) space with a false-colour zone mask visualiser.
 - **[RH Subtractive Mixer](https://renderhub.in/products/rh-subtractive-mixer)** — *Achieve Colors with Cinematic Density.* True subtractive color grading in CMY Dye Density Space with Luminance Lock and Pure Hue Isolation for rich, dense filmic color.
 - **[RH Hybrid Dye Engine](https://renderhub.in/products/rh-hybrid-dye-engine)** — *Quick fire DCTL for both Digital and Film looks.* Density-dependent crossfade between spectral film dye simulation (multi-layer emulsion, DIR couplers, halation, silver retention) and an additive digital curve.
-- **[RH Filmic Colors](https://renderhub.in/products/rh-filmic-colors)** — *Photochemical pipeline in a DCTL.* Subtractive film emulation engine with density-based CMY dye simulation, smart split toning, and adjustable tonescale curve shaping.
+- **[RH Filmic Colors](https://renderhub.in/rh-drt)** — *Photochemical pipeline in a DCTL.* Subtractive film emulation engine with density-based CMY dye simulation, smart split toning, and adjustable tonescale curve shaping.
 - **[RH MidControl](https://renderhub.in/products/rh-midcontrol-pro)** — *Precision Contrast Control Curves.* Dynamic contrast and exposure pivot engine with independent shadow and highlight roll-off curves (Hermite, Sine, Quadratic) and per-channel vector controls.
-- **[RH DRT](https://renderhub.in/products/rh-drt)** *(Coming Dec 2026)* — Display Rendering Transform (DRT) bringing a photochemical film emulation pipeline to DaVinci Resolve Studio.
+- **[RH DRT](https://renderhub.in/rh-drt)** *(Coming Dec 2026)* — Display Rendering Transform (DRT) bringing a photochemical film emulation pipeline to DaVinci Resolve Studio.
 - **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-hue-sat-den-mt)** *(Coming Dec 2026)* — Proprietary Petal color model tool for hue, saturation, and subtractive color density look development.
 - **[RH Hue Bender](https://renderhub.in/shop)** *(Coming Dec 2026)* — Smooth, precision hue vector bending and sculpting control.
 
