@@ -29,6 +29,11 @@ These are not presets, LUT packs, or one-click film looks.
 ### 🤝 Join the Community
 🌐 [**Website**](https://renderhub.in) | 🎬 [**YouTube**](https://www.youtube.com/c/SenthilManikandan) | 🎮 [**Discord**](https://discord.gg/QZKHgUba8) | ❤️ [**Instagram**](https://www.instagram.com/colorwizard_30)
 
+### ☕ Buy Me a Coffee
+  <a href="https://renderhub.in/donate">
+    <img src="https://img.shields.io/badge/Donate-RenderHub-0DDBF2?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate with Razorpay" />
+  </a>
+  
 ---
 
 ## 💿 Installation
@@ -158,7 +163,7 @@ Full usage documentation, control references, and workflow guidance are availabl
 
 ## 📈 Development Status
 
-This repository is under active development. Tools may evolve, controls may change, and behaviour may be refined. There is no fixed roadmap or timeline. Feedback is welcome, but implementation decisions remain scoped intentionally.
+This repository is under active development. Tools may evolve, controls may change, and behaviour may be refined. There is no fixed roadmap or timeline. Feedback is welcome, but implementation decisions remain scoped intentionally. I wish to keep these tools free forever, if you find these tools useful consider purchasing them. It will greatly help with development.
 
 ---
 
