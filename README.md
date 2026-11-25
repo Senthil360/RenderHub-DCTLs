@@ -14,14 +14,12 @@
   <img src="assets/download_latest_button.png" alt="Download Latest Release" width="320" />
 </a>
 
- * Latest Version released on - August 31 2026 (September Bundle)
-
 [🏷️ **View Older Versions**](https://github.com/Senthil360/RenderHub-DCTLs/tags)
 
 ---
 
 ## 🌟 Welcome
-Welcome to the official code repository for **RenderHub Tools**. This collection features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow.
+ **RenderHub Tools** features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow.
 
 ### 🧩 DCTL Suite Overview
 *Click any tool below to view full details on [renderhub.in](https://renderhub.in).*
