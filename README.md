@@ -134,18 +134,24 @@ These are not presets, LUT packs, or one-click film looks.
 
 ```mermaid
 flowchart TD
-    S1["1. Open DaVinci Resolve"] --> S2["2. Go to File › Project Settings (Shift + 9)"]
-    S2 --> S3["3. Navigate to the Color Management tab"]
-    S3 --> S4["4. Scroll to Lookup Tables › click Open LUT Folder"]
-    S4 --> S5["5. Create a new folder named 'RenderHub'"]
-    S5 --> S6["6. Place the downloaded .dctle files into RenderHub"]
-    S6 --> S7["7. Restart DaVinci Resolve"]
-    S7 --> S8["8. Color Page › Effects › drag DCTL OpenFX node › select tool"]
+    subgraph R1["Step 1–4 · Locate LUT Folder"]
+        direction LR
+        S1["1. Open DaVinci Resolve"] --> S2["2. File › Project Settings (Shift + 9)"] --> S3["3. Color Management tab"] --> S4["4. Lookup Tables › Open LUT Folder"]
+    end
+
+    subgraph R2["Step 5–8 · Install & Load"]
+        direction LR
+        S5["5. Create 'RenderHub' folder"] --> S6["6. Place .dctle files inside"] --> S7["7. Restart DaVinci Resolve"] --> S8["8. Color Page › Effects › DCTL › Select tool"]
+    end
+
+    R1 --> R2
 
     classDef stepBox fill:#0A0F14,stroke:#0DDBF2,stroke-width:1.5px,color:#FFFFFF,rx:8,ry:8;
     classDef finalBox fill:#0DDBF2,stroke:#0DDBF2,stroke-width:1.5px,color:#000000,rx:8,ry:8;
+    classDef groupBox fill:#05080B,stroke:#164E63,stroke-width:1px,stroke-dasharray:4 4,color:#0DDBF2;
     class S1,S2,S3,S4,S5,S6,S7 stepBox;
     class S8 finalBox;
+    class R1,R2 groupBox;
 ```
 
 ### Manual Installation Paths
