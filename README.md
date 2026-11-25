@@ -4,21 +4,19 @@
   </a>
 </p>
 
-<p align="center">
-  🌐 <a href="https://renderhub.in"><strong>Visit renderhub.in</strong></a> for comprehensive tutorials, visual guides, and our full suite of premium color tools!
-</p>
-
 > 🌟🌟🌟 **Season Greetings:** December Release will include **ALL** of my DCTLs including **RH DRT**, **RH Petal Hue Sat Den MT**, and **RH Hue Bender**. 🌟🌟🌟
 
 ---
 
 ## 📥 Downloads & Updates
 
-### [🚀 **LATEST RELEASES**](https://github.com/Senthil360/RenderHub-DCTLs/releases/)
-### Latest Version released on - August 31 2026 (September Bundle)
-*Grab the latest versions of all tools here.*
+<a href="https://github.com/Senthil360/RenderHub-DCTLs/releases/">
+  <img src="assets/download_latest_button.png" alt="Download Latest Release" width="320" />
+</a>
 
-[🏷️ **View All Versions (Tags)**](https://github.com/Senthil360/RenderHub-DCTLs/tags)
+ * Latest Version released on - August 31 2026 (September Bundle)
+
+[🏷️ **View Older Versions**](https://github.com/Senthil360/RenderHub-DCTLs/tags)
 
 ---
 
