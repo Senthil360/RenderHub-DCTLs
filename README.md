@@ -1,10 +1,15 @@
-# 🎨 RenderHub DCTLs & Plugins
+<p align="center">
+  <a href="https://renderhub.in">
+    <img src="assets/renderhub_banner_2.png" alt="RenderHub DCTLs & Plugins — High-Fidelity Color Tools for DaVinci Resolve Studio" width="100%" />
+  </a>
+</p>
 
-> **High-Fidelity Color Tools for DaVinci Resolve Studio**
+<p align="center">
+  🌐 <a href="https://renderhub.in"><strong>Visit renderhub.in</strong></a> for comprehensive tutorials, visual guides, and our full suite of premium color tools!
+</p>
 
-> 🌐 **[Visit renderhub.in](https://renderhub.in) for comprehensive tutorials, visual guides, and our full suite of premium color tools!**
+> 🌟🌟🌟 **Season Greetings:** December Release will include **ALL** of my DCTLs including **RH DRT**, **RH Petal Hue Sat Den MT**, and **RH Hue Bender**. 🌟🌟🌟
 
-### 🌟🌟🌟 Season Greetings : December Release will include ALL of my DCTLs including RH DRT, RH Petal Hue Sat Den MT, RH Hue Bender. 🌟🌟🌟
 ---
 
 ## 📥 Downloads & Updates
@@ -25,6 +30,76 @@ All tools assume:
 - Proper color management upstream
 
 These are not presets, LUT packs, or one-click film looks.
+
+### 🧩 DCTL Suite Overview
+*Click any tool below to view full details on [renderhub.in](https://renderhub.in).*
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-end-tones-sculptor">
+        <img src="assets/dctl_square_thumbs_end_tones_sculptor.png" alt="RH End Tones Sculptor" width="160" />
+      </a><br />
+      <sub><strong>RH End Tones Sculptor</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-hue-compressor">
+        <img src="assets/dctl_square_thumbs_hue_compressor_2.png" alt="RH Hue Compressor" width="160" />
+      </a><br />
+      <sub><strong>RH Hue Compressor</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-chroma-gate">
+        <img src="assets/dctl_square_thumbs_chroma_gate.png" alt="RH Chroma Gate" width="160" />
+      </a><br />
+      <sub><strong>RH Chroma Gate</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-subtractive-mixer">
+        <img src="assets/dctl_square_thumbs-rh_sub_mixer.png" alt="RH Subtractive Mixer" width="160" />
+      </a><br />
+      <sub><strong>RH Subtractive Mixer</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-hybrid-dye-engine">
+        <img src="assets/dctl_square_thumbs_hybrid_dye_engine_2.png" alt="RH Hybrid Dye Engine" width="160" />
+      </a><br />
+      <sub><strong>RH Hybrid Dye Engine</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-filmic-colors">
+        <img src="assets/dctl_square_thumbs_filmic_colors.png" alt="RH Filmic Colors" width="160" />
+      </a><br />
+      <sub><strong>RH Filmic Colors</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-midcontrol-pro">
+        <img src="assets/dctl_square_thumbs_midcontrol_2.png" alt="RH MidControl" width="160" />
+      </a><br />
+      <sub><strong>RH MidControl</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-drt">
+        <img src="assets/dctl_square_thumbs_RH_filmic_colors_drt.png" alt="RH DRT" width="160" />
+      </a><br />
+      <sub><strong>RH DRT</strong><br /><em>(Coming Dec 2026)</em></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-petal-hue-sat-den-mt">
+        <img src="assets/dctl_rh_petal_hue_sat_den_mt.png" alt="RH Petal Hue Sat Den MT" width="160" />
+      </a><br />
+      <sub><strong>RH Petal Hue Sat Den MT</strong><br /><em>(Coming Dec 2026)</em></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/shop">
+        <img src="assets/dctl_square_thumbs_hue_bender.png" alt="RH Hue Bender" width="160" />
+      </a><br />
+      <sub><strong>RH Hue Bender</strong><br /><em>(Coming Dec 2026)</em></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🤝 Join the Community
 🌐 [**Website**](https://renderhub.in) | 🎬 [**YouTube**](https://www.youtube.com/c/SenthilManikandan) | 🎮 [**Discord**](https://discord.gg/QZKHgUba8) | ❤️ [**Instagram**](https://www.instagram.com/colorwizard_30)
@@ -57,103 +132,8 @@ If you prefer to copy the files manually, the default directories are:
 - **Windows:** `C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\`
 
 🎬 [**Video Guide on Installation**](https://youtu.be/gxFVYyTGwoM)
----
-
-## 🛠️ The Collection
-
-### 🎨 RH End Tones Sculptor
-> **Shadow & Highlight Sculpting Engine.** Precise, zone-isolated control over the colour character of your shadows and highlights — RGB balance, saturation, and hue rotation per zone, with no bleed into midtones.
-
-- Independent shadow and highlight zones with adjustable pivots and softness
-- **Petal Color Model (IQ Projection)** for luminance-decoupled saturation and hue
-- Additive RGB balance per zone for targeted tinting
-- Optional hue rotation gated by checkbox (no accidental shifts)
-- Live RGB curve visualiser with per-channel curves and tint swatches
-- Zone mask diagnostic mode
-
-👉 [Documentation — RH End Tones Sculptor](https://renderhub.in/docs/rh-end-tones-sculptor)
 
 ---
-
-### 🎡 RH Hue Compressor
-> **6-Vector Hue Compression Engine.** Pulls stray hues toward their natural target angle proportionally — the further a hue sits from the target, the stronger the pull. Hues already at centre are untouched.
-
-- 6 independent vectors: Red, Yellow, Green, Cyan, Blue, Magenta
-- Per-vector Compression, Center offset, and Range controls
-- **Reuleaux (HRO) color model** for perceptually uniform hue spacing
-- Global Blend for wet/dry mix across all vectors simultaneously
-- Pure angular operation — saturation and luminance are not affected
-
-👉 [Documentation — RH Hue Compressor](https://renderhub.in/docs/rh-hue-compressor)
-
----
-
-### 🚦 RH Chroma Gate
-> **6-Vector Per-Zone Chroma Control.** Saturation control with two axes: hue vector and tonal zone. 18 independent saturation multipliers across 6 hue families × 3 tonal zones.
-
-- 6 hue vectors × 3 tonal zones (shadow / mid / highlight) = 18 controls
-- **Reuleaux (HRO) color model** for consistent chroma representation
-- Tonal zones derived from Rec.709 luma for perceptually accurate classification
-- Adjustable Shadow Pivot, Highlight Pivot, and Zone Softness
-- False-colour zone mask visualiser (Red = highlights, Green = mids, Blue = shadows)
-- Default is a perfect pass-through — nothing changes unless you move a slider
-
-👉 [Documentation — RH Chroma Gate](https://renderhub.in/docs/rh-chroma-gate)
-
----
-
-### 🎛️ RH Subtractive Mixer
-> **Subtractive Color Grading in CMY Density Space.** A highly specialized film emulation tool that performs true subtractive color mixing by converting your image into CMY Dye Density Space — simulating physical film dye absorption for rich, deep, and thick cinematic colors.
-
-- **CMY Dye Density Space** conversion for true subtractive color shifts (adding color density removes light)
-- Mathematically perfect **Luminance Lock** to preserve original perceptual brightness while adding intense saturation
-- **Pure Hue Isolation** ensures color shifts only affect saturated objects without tinting neutral gray balance
-- 6 independent CMY & RGB subtractive shift sliders for organic hue manipulation
-- **Subtractive Saturation** multiplier for achieving thick, dense saturation without video-like brightness boost
-- Global **Shift Sensitivity** dampener for fine-grained slider control
-
-👉 [Documentation — RH Subtractive Mixer](https://renderhub.in/docs/rh-subtractive-mixer)
-
----
-
-### 🎞️ RH Hybrid Dye Engine *(New)*
-> **Spectral Film Chemistry & Additive Digital Fusion.** An advanced film emulation and color grading tool that runs two completely distinct image processing pipelines in parallel and intelligently blends them based on scene exposure.
-
-- **Density-Dependent Crossfade Architecture:** Runs spectral film dye simulation in shadows and cleanly crossfades to an additive digital curve in highlights
-- **Multi-Layer Emulsion & DIR Couplers:** Simulates Fast and Slow sublayers for organic contrast, with chemical cross-talk to create deep color separation
-- **Spectral Integration:** Models light absorption across against Illuminant D65
-- **Physical Film Artifact Controls:** True silver retention, physical halation emulation, and adjustable fog levels
-- **Dye Tuning:** Tune the spectral absorption multipliers for each individual dye layer before CIE color matching integration
-- **Visual Aids:** Built-in curve visualiser for tuning the Fast-Slow Ratio, Contrast, and Blend Transition
-
-👉 [Documentation — RH Hybrid Dye Engine](https://renderhub.in/docs/rh-hybrid-dye-engine)
-
-### 🎞️ RH Filmic Colors
-> **The Subtractive Film Engine.** A density-based color model that preserves chromatic richness under contrast and exposure changes — built on real dye absorption physics, not LUT approximations.
-
-- Density-based CMY dye simulation in DWG scene-linear space
-- Smart Split Toning with hue-selective shadow and highlight toning
-- Tonescale with adjustable shape curve
-- Global hue, saturation, and exposure controls
-- Built-in curve visualiser
-
-👉 [Documentation — RH Filmic Colors](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-Filmic-Colors)
-
----
-
-### 🎚️ RH MidControl
-> **Dynamic Contrast & Exposure Engine.** Pivots contrast around a user-definable mid point, allowing asymmetric shadow and highlight control independent of each other.
-
-- User-definable mid point pivot (replaces fixed 0.18 / 0.5 grey)
-- Independent shadow and highlight curve types: Hermite, Sine, Quadratic
-- Per-channel (RGB) vector controls for low and high regions
-- Black point / white point level controls
-- Show Mid Selection and Show Curves diagnostic overlays
-
-👉 [Documentation — RH MidControl](https://github.com/Senthil360/RenderHub-DCTLs/wiki/RH-MidControl)
-
----
-
 
 ## 📖 Documentation
 
