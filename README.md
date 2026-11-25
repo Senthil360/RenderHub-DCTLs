@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://renderhub.in">
-    <img src="assets/renderhub_banner_2.png" alt="RenderHub DCTLs & Plugins — High-Fidelity Color Tools for DaVinci Resolve Studio" width="100%" />
+    <img src="assets/renderhub_banner_2.png" alt="RenderHub DCTLs & Plugins - High-Fidelity Color Tools for DaVinci Resolve Studio" width="100%" />
   </a>
 </p>
+
+# RenderHub DCTLs - DaVinci Resolve Studio Color Grading Tools
 
 > 🌟🌟🌟 **Season Greetings:** December Release will include **ALL** of my DCTLs including **RH DRT**, **RH Petal Hue Sat Den MT**, and **RH Hue Bender**. 🌟🌟🌟
 
@@ -10,7 +12,7 @@
 
 ## 📥 Downloads & Updates
 
-<a href="https://github.com/Senthil360/RenderHub-DCTLs/releases/">
+<a href="https://github.com/Senthil360/RenderHub-DCTLs/releases/latest">
   <img src="assets/download_latest_button.png" alt="Download Latest Release" width="320" />
 </a>
 
@@ -91,6 +93,22 @@
   </tr>
 </table>
 
+<details>
+<summary><strong>📖 Tool Breakdown — What Each DCTL Does</strong> <em>(Click to expand)</em></summary>
+
+- **[RH End Tones Sculptor](https://renderhub.in/products/rh-end-tones-sculptor)** — *Finesse Highlights & Shadows.* Zone-isolated shadow and highlight sculpting using the Petal Color Model (IQ Projection), with additive RGB balance, optional hue rotation, and live curve visualiser.
+- **[RH Hue Compressor](https://renderhub.in/products/rh-hue-compressor)** — *Pulls stray hues towards fixed target hue.* 6-vector hue compression engine in the perceptually uniform Reuleaux (HRO) color model with per-vector compression, range, and center offset controls.
+- **[RH Chroma Gate](https://renderhub.in/products/rh-chroma-gate)** — *Control Saturation differently in Low, Mid and High.* 18-control per-zone chroma matrix (6 hue vectors × 3 tonal zones) in Reuleaux (HRO) space with a false-colour zone mask visualiser.
+- **[RH Subtractive Mixer](https://renderhub.in/products/rh-subtractive-mixer)** — *Achieve Colors with Cinematic Density.* True subtractive color grading in CMY Dye Density Space with Luminance Lock and Pure Hue Isolation for rich, dense filmic color.
+- **[RH Hybrid Dye Engine](https://renderhub.in/products/rh-hybrid-dye-engine)** — *Quick fire DCTL for both Digital and Film looks.* Density-dependent crossfade between spectral film dye simulation (multi-layer emulsion, DIR couplers, halation, silver retention) and an additive digital curve.
+- **[RH Filmic Colors](https://renderhub.in/products/rh-filmic-colors)** — *Photochemical pipeline in a DCTL.* Subtractive film emulation engine with density-based CMY dye simulation, smart split toning, and adjustable tonescale curve shaping.
+- **[RH MidControl](https://renderhub.in/products/rh-midcontrol-pro)** — *Precision Contrast Control Curves.* Dynamic contrast and exposure pivot engine with independent shadow and highlight roll-off curves (Hermite, Sine, Quadratic) and per-channel vector controls.
+- **[RH DRT](https://renderhub.in/products/rh-drt)** *(Coming Dec 2026)* — Display Rendering Transform (DRT) bringing a photochemical film emulation pipeline to DaVinci Resolve Studio.
+- **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-hue-sat-den-mt)** *(Coming Dec 2026)* — Proprietary Petal color model tool for hue, saturation, and subtractive color density look development.
+- **[RH Hue Bender](https://renderhub.in/shop)** *(Coming Dec 2026)* — Smooth, precision hue vector bending and sculpting control.
+
+</details>
+
 All tools assume:
 - Scene-referred input in **DaVinci Wide Gamut / Intermediate (DWG/DI) or similar**
 - Proper color management upstream
@@ -130,24 +148,34 @@ These are not presets, LUT packs, or one-click film looks.
 
 ```mermaid
 flowchart TD
-    subgraph R1["Step 1–4 · Locate LUT Folder"]
+    subgraph R1["1 · Locate LUT Folder"]
         direction LR
-        S1["1. Open DaVinci Resolve"] --> S2["2. File › Project Settings (Shift + 9)"] --> S3["3. Color Management tab"] --> S4["4. Lookup Tables › Open LUT Folder"]
+        S1["1. Open DaVinci Resolve"] --> S2["2. File › Project Settings (Shift + 9)"]
     end
 
-    subgraph R2["Step 5–8 · Install & Load"]
+    subgraph R2[" "]
         direction LR
-        S5["5. Create 'RenderHub' folder"] --> S6["6. Place .dctle files inside"] --> S7["7. Restart DaVinci Resolve"] --> S8["8. Color Page › Effects › DCTL › Select tool"]
+        S3["3. Color Management tab"] --> S4["4. Lookup Tables › Open LUT Folder"]
     end
 
-    R1 --> R2
+    subgraph R3["2 · Install & Load"]
+        direction LR
+        S5["5. Create 'RenderHub' folder"] --> S6["6. Place .dctle files inside"]
+    end
+
+    subgraph R4[" "]
+        direction LR
+        S7["7. Restart DaVinci Resolve"] --> S8["8. Color Page › Effects › DCTL › Select tool"]
+    end
+
+    R1 --> R2 --> R3 --> R4
 
     classDef stepBox fill:#0A0F14,stroke:#0DDBF2,stroke-width:1.5px,color:#FFFFFF,rx:8,ry:8;
     classDef finalBox fill:#0DDBF2,stroke:#0DDBF2,stroke-width:1.5px,color:#000000,rx:8,ry:8;
     classDef groupBox fill:#05080B,stroke:#164E63,stroke-width:1px,stroke-dasharray:4 4,color:#0DDBF2;
     class S1,S2,S3,S4,S5,S6,S7 stepBox;
     class S8 finalBox;
-    class R1,R2 groupBox;
+    class R1,R2,R3,R4 groupBox;
 ```
 
 ### Manual Installation Paths
@@ -178,7 +206,7 @@ Full usage documentation, control references, and workflow guidance are availabl
 
 ## 📈 Development Status
 
-This repository is under active development. Tools may evolve, controls may change, and behaviour may be refined. There is no fixed roadmap or timeline. Feedback is welcome, but implementation decisions remain scoped intentionally. I wish to keep these tools free forever, if you find these tools useful consider purchasing them. It will greatly help with development.
+This repository is under active development. Tools may evolve, controls may change, and behaviour may be refined. There is no fixed roadmap or timeline. Feedback is welcome, but implementation decisions remain scoped intentionally. I wish to keep these tools free forever — if you find them useful, please [consider supporting development with a donation](https://renderhub.in/donate). It greatly helps fund ongoing development.
 
 ---
 
