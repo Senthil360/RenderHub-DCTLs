@@ -23,13 +23,7 @@
 ---
 
 ## 🌟 Welcome
-Welcome to the official code repository for **RenderHub Tools**. This collection features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow with subtractive color science and atomic control.
-
-All tools assume:
-- Scene-referred input in **DaVinci Wide Gamut / Intermediate (DWG/DI)**
-- Proper color management upstream
-
-These are not presets, LUT packs, or one-click film looks.
+Welcome to the official code repository for **RenderHub Tools**. This collection features high-precision DCTLs and plugins designed to elevate your DaVinci Resolve workflow.
 
 ### 🧩 DCTL Suite Overview
 *Click any tool below to view full details on [renderhub.in](https://renderhub.in).*
@@ -101,8 +95,28 @@ These are not presets, LUT packs, or one-click film looks.
   </tr>
 </table>
 
+All tools assume:
+- Scene-referred input in **DaVinci Wide Gamut / Intermediate (DWG/DI) or similar**
+- Proper color management upstream
+
+These are not presets, LUT packs, or one-click film looks.
+
+
 ### 🤝 Join the Community
-🌐 [**Website**](https://renderhub.in) | 🎬 [**YouTube**](https://www.youtube.com/c/SenthilManikandan) | 🎮 [**Discord**](https://discord.gg/QZKHgUba8) | ❤️ [**Instagram**](https://www.instagram.com/colorwizard_30)
+<p>
+  <a href="https://renderhub.in">
+    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=0DDBF2" alt="RenderHub Website" />
+  </a>
+  <a href="https://www.youtube.com/c/SenthilManikandan">
+    <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/QZKHgUba8">
+    <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/colorwizard_30">
+    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+</p>
 
 ### ☕ Buy Me a Coffee
   <a href="https://renderhub.in/donate">
@@ -116,20 +130,36 @@ These are not presets, LUT packs, or one-click film looks.
 *Note: Native DCTL support requires **DaVinci Resolve Studio** (the paid version).*
 *You can try using the installers in the 'installer' folder. If that does not work, follow the instructions below.*
 
-### How to install DCTLs in Davinci Resolve Studio
-1. Open DaVinci Resolve.
-2. Go to **File > Project Settings** (or press `Shift + 9`).
-3. Navigate to the **Color Management** tab.
-4. Scroll down to the **Lookup Tables** section and click the **Open LUT Folder** button.
-5. Create a new folder called 'RenderHub'
-6. Place the downloaded `.dctle` files into this folder.
-7. **Restart DaVinci Resolve** for the changes to take effect.
-8. The tools will now be available in the Color Page under the **Effects** panel (drag the **DCTL** OpenFX node onto a node and select the tool from the dropdown).
+### How to install DCTLs in DaVinci Resolve Studio
+
+```mermaid
+flowchart TD
+    S1["1. Open DaVinci Resolve"] --> S2["2. Go to File › Project Settings (Shift + 9)"]
+    S2 --> S3["3. Navigate to the Color Management tab"]
+    S3 --> S4["4. Scroll to Lookup Tables › click Open LUT Folder"]
+    S4 --> S5["5. Create a new folder named 'RenderHub'"]
+    S5 --> S6["6. Place the downloaded .dctle files into RenderHub"]
+    S6 --> S7["7. Restart DaVinci Resolve"]
+    S7 --> S8["8. Color Page › Effects › drag DCTL OpenFX node › select tool"]
+
+    classDef stepBox fill:#0A0F14,stroke:#0DDBF2,stroke-width:1.5px,color:#FFFFFF,rx:8,ry:8;
+    classDef finalBox fill:#0DDBF2,stroke:#0DDBF2,stroke-width:1.5px,color:#000000,rx:8,ry:8;
+    class S1,S2,S3,S4,S5,S6,S7 stepBox;
+    class S8 finalBox;
+```
 
 ### Manual Installation Paths
 If you prefer to copy the files manually, the default directories are:
-- **macOS:** `/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/`
-- **Windows:** `C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\`
+
+**macOS:**
+```text
+/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/
+```
+
+**Windows:**
+```text
+C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\
+```
 
 🎬 [**Video Guide on Installation**](https://youtu.be/gxFVYyTGwoM)
 
