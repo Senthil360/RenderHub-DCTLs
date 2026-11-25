@@ -4,7 +4,7 @@
 
 > 🌐 **[Visit renderhub.in](https://renderhub.in) for comprehensive tutorials, visual guides, and our full suite of premium color tools!**
 
-### 🌟🌟🌟 IMPORTANT : One of the two Flagship DCTLs, **RH DRT** is now in private beta, [subscribe](https://renderhub.in/rh-drt) to get early access and discounts. 🌟🌟🌟
+### 🌟🌟🌟 Season Greetings : December Release will include ALL of my DCTLs including RH DRT, RH Petal Hue Sat Den MT, RH Hue Bender. 🌟🌟🌟
 ---
 
 ## 📥 Downloads & Updates
