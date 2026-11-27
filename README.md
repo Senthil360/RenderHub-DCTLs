@@ -61,7 +61,6 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-<<<<<<< HEAD
       <a href="https://renderhub.in/products/rh-hue-bender">
         <img src="assets/RH-Hue-Bender.png" alt="RH Hue Bender" width="160" />
       </a><br />
@@ -86,24 +85,8 @@
       <sub><strong>RH Color Bracket</strong></sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-filmic-colors">
+      <a href="https://renderhub.in/rh-drt">
         <img src="assets/RH-DRT.png" alt="RH DRT" width="160" />
-=======
-      <a href="https://renderhub.in/rh-drt">
-        <img src="assets/dctl_square_thumbs_filmic_colors.png" alt="RH Filmic Colors" width="160" />
-      </a><br />
-      <sub><strong>RH Filmic Colors</strong></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-midcontrol-pro">
-        <img src="assets/dctl_square_thumbs_midcontrol_2.png" alt="RH MidControl" width="160" />
-      </a><br />
-      <sub><strong>RH MidControl</strong></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://renderhub.in/rh-drt">
-        <img src="assets/dctl_square_thumbs_RH_filmic_colors_drt.png" alt="RH DRT" width="160" />
->>>>>>> d57106d7b1b1831f1bb64736a10b453d1e3cea48
       </a><br />
       <sub><strong>RH DRT</strong><br /><em>(Coming Dec 2026)</em></sub>
     </td>
@@ -113,7 +96,6 @@
 <details>
 <summary><strong>📖 Tool Breakdown — What Each DCTL Does</strong> <em>(Click to expand)</em></summary>
 
-<<<<<<< HEAD
 - **[RH Chroma Gate](https://renderhub.in/products/rh-chroma-gate)** — *Tonal Zone Aware Saturation Shaping.* Separates saturation control across 6 hue vectors (RGBCMY) and 3 custom luminance zones (Low, Mid, High) with adjustable pivot softness and a false-colour zone mask preview.
 - **[RH End Tones Sculptor](https://renderhub.in/products/rh-end-tones-sculptor)** — *Finesse Highlights & Shadows.* Independent RGB balance, saturation, and hue rotation for shadows and highlights without touching midtones, complete with zone masks and a live tone-curve overlay.
 - **[RH Hue Compressor](https://renderhub.in/products/rh-hue-compressor)** — *Pure Hue or a Magical hue number, you choose.* Compresses stray hues proportionally toward custom target angles in a polar chromaticity model with per-vector center offset and range controls.
@@ -123,19 +105,7 @@
 - **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-huesatden-mt)** — *Proprietary Color Model for accurate Look Development.* Six-vector hue, saturation, and density sculpting built on the Petal Color Model with Mock Theta Basis Weights for independent vector width and asymmetry (Deviation).
 - **[RH Subtractive Mixer](https://renderhub.in/products/rh-subtractive-mixer)** — *Achieve Colors with Cinematic Density.* True subtractive color mixing in physical dye density space with 6 pure-hue shifts, Subtractive Saturation, Lock Luminance, and Shift Sensitivity.
 - **[RH Color Bracket](https://renderhub.in/products/rh-color-bracket)** — *Fastest way to qualify and modify colors.* Surgical geometric hue bracketing without noisy qualifiers, offering asymmetric width, outer softness, density, saturation, and uniform hue forcing.
-- **[RH DRT](https://renderhub.in/products/rh-filmic-colors)** *(Coming Dec 2026)* — *Photochemical pipeline inside a DCTL.* Display Rendering Transform (DRT) delivering filmic density and photochemical color rendering for DaVinci Resolve Studio.
-=======
-- **[RH End Tones Sculptor](https://renderhub.in/products/rh-end-tones-sculptor)** — *Finesse Highlights & Shadows.* Zone-isolated shadow and highlight sculpting using the Petal Color Model (IQ Projection), with additive RGB balance, optional hue rotation, and live curve visualiser.
-- **[RH Hue Compressor](https://renderhub.in/products/rh-hue-compressor)** — *Pulls stray hues towards fixed target hue.* 6-vector hue compression engine in the perceptually uniform Reuleaux (HRO) color model with per-vector compression, range, and center offset controls.
-- **[RH Chroma Gate](https://renderhub.in/products/rh-chroma-gate)** — *Control Saturation differently in Low, Mid and High.* 18-control per-zone chroma matrix (6 hue vectors × 3 tonal zones) in Reuleaux (HRO) space with a false-colour zone mask visualiser.
-- **[RH Subtractive Mixer](https://renderhub.in/products/rh-subtractive-mixer)** — *Achieve Colors with Cinematic Density.* True subtractive color grading in CMY Dye Density Space with Luminance Lock and Pure Hue Isolation for rich, dense filmic color.
-- **[RH Hybrid Dye Engine](https://renderhub.in/products/rh-hybrid-dye-engine)** — *Quick fire DCTL for both Digital and Film looks.* Density-dependent crossfade between spectral film dye simulation (multi-layer emulsion, DIR couplers, halation, silver retention) and an additive digital curve.
-- **[RH Filmic Colors](https://renderhub.in/rh-drt)** — *Photochemical pipeline in a DCTL.* Subtractive film emulation engine with density-based CMY dye simulation, smart split toning, and adjustable tonescale curve shaping.
-- **[RH MidControl](https://renderhub.in/products/rh-midcontrol-pro)** — *Precision Contrast Control Curves.* Dynamic contrast and exposure pivot engine with independent shadow and highlight roll-off curves (Hermite, Sine, Quadratic) and per-channel vector controls.
-- **[RH DRT](https://renderhub.in/rh-drt)** *(Coming Dec 2026)* — Display Rendering Transform (DRT) bringing a photochemical film emulation pipeline to DaVinci Resolve Studio.
-- **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-hue-sat-den-mt)** *(Coming Dec 2026)* — Proprietary Petal color model tool for hue, saturation, and subtractive color density look development.
-- **[RH Hue Bender](https://renderhub.in/shop)** *(Coming Dec 2026)* — Smooth, precision hue vector bending and sculpting control.
->>>>>>> d57106d7b1b1831f1bb64736a10b453d1e3cea48
+- **[RH DRT](https://renderhub.in/rh-drt)** *(Coming Dec 2026)* — *Photochemical pipeline inside a DCTL.* Display Rendering Transform (DRT) delivering filmic density and photochemical color rendering for DaVinci Resolve Studio.
 
 </details>
 
