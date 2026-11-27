@@ -29,66 +29,66 @@
 <table>
   <tr>
     <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-chroma-gate">
+        <img src="assets/RH-Chroma-Gate.png" alt="RH Chroma Gate" width="160" />
+      </a><br />
+      <sub><strong>RH Chroma Gate</strong></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="https://renderhub.in/products/rh-end-tones-sculptor">
-        <img src="assets/dctl_square_thumbs_end_tones_sculptor.png" alt="RH End Tones Sculptor" width="160" />
+        <img src="assets/RH-End-Tones-Sculptor.png" alt="RH End Tones Sculptor" width="160" />
       </a><br />
       <sub><strong>RH End Tones Sculptor</strong></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://renderhub.in/products/rh-hue-compressor">
-        <img src="assets/dctl_square_thumbs_hue_compressor_2.png" alt="RH Hue Compressor" width="160" />
+        <img src="assets/RH-Hue-Compressor.png" alt="RH Hue Compressor" width="160" />
       </a><br />
       <sub><strong>RH Hue Compressor</strong></sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-chroma-gate">
-        <img src="assets/dctl_square_thumbs_chroma_gate.png" alt="RH Chroma Gate" width="160" />
-      </a><br />
-      <sub><strong>RH Chroma Gate</strong></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-subtractive-mixer">
-        <img src="assets/dctl_square_thumbs-rh_sub_mixer.png" alt="RH Subtractive Mixer" width="160" />
-      </a><br />
-      <sub><strong>RH Subtractive Mixer</strong></sub>
-    </td>
-    <td align="center" width="20%">
       <a href="https://renderhub.in/products/rh-hybrid-dye-engine">
-        <img src="assets/dctl_square_thumbs_hybrid_dye_engine_2.png" alt="RH Hybrid Dye Engine" width="160" />
+        <img src="assets/RH-Hybrid-Dye-Engine.png" alt="RH Hybrid Dye Engine" width="160" />
       </a><br />
       <sub><strong>RH Hybrid Dye Engine</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-contrast-shaper">
+        <img src="assets/RH-Contrast-Shaper.png" alt="RH Contrast Shaper" width="160" />
+      </a><br />
+      <sub><strong>RH Contrast Shaper</strong></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-hue-bender">
+        <img src="assets/RH-Hue-Bender.png" alt="RH Hue Bender" width="160" />
+      </a><br />
+      <sub><strong>RH Hue Bender</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-petal-huesatden-mt">
+        <img src="assets/RH-Petal-HueSatDen-MT.png" alt="RH Petal Hue Sat Den MT" width="160" />
+      </a><br />
+      <sub><strong>RH Petal Hue Sat Den MT</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-subtractive-mixer">
+        <img src="assets/RH-Subtractive-Mixer.png" alt="RH Subtractive Mixer" width="160" />
+      </a><br />
+      <sub><strong>RH Subtractive Mixer</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://renderhub.in/products/rh-color-bracket">
+        <img src="assets/RH-Color-Bracket.png" alt="RH Color Bracket" width="160" />
+      </a><br />
+      <sub><strong>RH Color Bracket</strong></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="https://renderhub.in/products/rh-filmic-colors">
-        <img src="assets/dctl_square_thumbs_filmic_colors.png" alt="RH Filmic Colors" width="160" />
-      </a><br />
-      <sub><strong>RH Filmic Colors</strong></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-midcontrol-pro">
-        <img src="assets/dctl_square_thumbs_midcontrol_2.png" alt="RH MidControl" width="160" />
-      </a><br />
-      <sub><strong>RH MidControl</strong></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-drt">
-        <img src="assets/dctl_square_thumbs_RH_filmic_colors_drt.png" alt="RH DRT" width="160" />
+        <img src="assets/RH-DRT.png" alt="RH DRT" width="160" />
       </a><br />
       <sub><strong>RH DRT</strong><br /><em>(Coming Dec 2026)</em></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://renderhub.in/products/rh-petal-hue-sat-den-mt">
-        <img src="assets/dctl_rh_petal_hue_sat_den_mt.png" alt="RH Petal Hue Sat Den MT" width="160" />
-      </a><br />
-      <sub><strong>RH Petal Hue Sat Den MT</strong><br /><em>(Coming Dec 2026)</em></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://renderhub.in/shop">
-        <img src="assets/dctl_square_thumbs_hue_bender.png" alt="RH Hue Bender" width="160" />
-      </a><br />
-      <sub><strong>RH Hue Bender</strong><br /><em>(Coming Dec 2026)</em></sub>
     </td>
   </tr>
 </table>
@@ -96,16 +96,16 @@
 <details>
 <summary><strong>📖 Tool Breakdown — What Each DCTL Does</strong> <em>(Click to expand)</em></summary>
 
-- **[RH End Tones Sculptor](https://renderhub.in/products/rh-end-tones-sculptor)** — *Finesse Highlights & Shadows.* Zone-isolated shadow and highlight sculpting using the Petal Color Model (IQ Projection), with additive RGB balance, optional hue rotation, and live curve visualiser.
-- **[RH Hue Compressor](https://renderhub.in/products/rh-hue-compressor)** — *Pulls stray hues towards fixed target hue.* 6-vector hue compression engine in the perceptually uniform Reuleaux (HRO) color model with per-vector compression, range, and center offset controls.
-- **[RH Chroma Gate](https://renderhub.in/products/rh-chroma-gate)** — *Control Saturation differently in Low, Mid and High.* 18-control per-zone chroma matrix (6 hue vectors × 3 tonal zones) in Reuleaux (HRO) space with a false-colour zone mask visualiser.
-- **[RH Subtractive Mixer](https://renderhub.in/products/rh-subtractive-mixer)** — *Achieve Colors with Cinematic Density.* True subtractive color grading in CMY Dye Density Space with Luminance Lock and Pure Hue Isolation for rich, dense filmic color.
-- **[RH Hybrid Dye Engine](https://renderhub.in/products/rh-hybrid-dye-engine)** — *Quick fire DCTL for both Digital and Film looks.* Density-dependent crossfade between spectral film dye simulation (multi-layer emulsion, DIR couplers, halation, silver retention) and an additive digital curve.
-- **[RH Filmic Colors](https://renderhub.in/products/rh-filmic-colors)** — *Photochemical pipeline in a DCTL.* Subtractive film emulation engine with density-based CMY dye simulation, smart split toning, and adjustable tonescale curve shaping.
-- **[RH MidControl](https://renderhub.in/products/rh-midcontrol-pro)** — *Precision Contrast Control Curves.* Dynamic contrast and exposure pivot engine with independent shadow and highlight roll-off curves (Hermite, Sine, Quadratic) and per-channel vector controls.
-- **[RH DRT](https://renderhub.in/products/rh-drt)** *(Coming Dec 2026)* — Display Rendering Transform (DRT) bringing a photochemical film emulation pipeline to DaVinci Resolve Studio.
-- **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-hue-sat-den-mt)** *(Coming Dec 2026)* — Proprietary Petal color model tool for hue, saturation, and subtractive color density look development.
-- **[RH Hue Bender](https://renderhub.in/shop)** *(Coming Dec 2026)* — Smooth, precision hue vector bending and sculpting control.
+- **[RH Chroma Gate](https://renderhub.in/products/rh-chroma-gate)** — *Tonal Zone Aware Saturation Shaping.* Separates saturation control across 6 hue vectors (RGBCMY) and 3 custom luminance zones (Low, Mid, High) with adjustable pivot softness and a false-colour zone mask preview.
+- **[RH End Tones Sculptor](https://renderhub.in/products/rh-end-tones-sculptor)** — *Finesse Highlights & Shadows.* Independent RGB balance, saturation, and hue rotation for shadows and highlights without touching midtones, complete with zone masks and a live tone-curve overlay.
+- **[RH Hue Compressor](https://renderhub.in/products/rh-hue-compressor)** — *Pure Hue or a Magical hue number, you choose.* Compresses stray hues proportionally toward custom target angles in a polar chromaticity model with per-vector center offset and range controls.
+- **[RH Hybrid Dye Engine](https://renderhub.in/products/rh-hybrid-dye-engine)** — *Quick fire DCTL for Digital and Film looks alike.* Density-dependent crossfade fusing spectral film dye simulation (multi-layer emulsion, DIR couplers, halation, silver retention) with a clean additive digital tone curve.
+- **[RH Contrast Shaper](https://renderhub.in/products/rh-contrast-shaper)** *(formerly RH MidControl)* — *Photometric Exposure & C2 Pivoted Contrast Engine.* Adjust photometric DI exposure in stops, pivot Linear or C2 S-Curve contrast around any user-definable Mid Point, and sculpt toe/shoulder roll-off with Luma Only mode.
+- **[RH Hue Bender](https://renderhub.in/products/rh-hue-bender)** — *Control the Low, Mid & High hues with precision.* Directional hue sculpting across 6 hue vectors and 3 tonal zones in customized HRO space (Fixed & Native models) with zone softness and a built-in palette visualizer.
+- **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-huesatden-mt)** — *Proprietary Color Model for accurate Look Development.* Six-vector hue, saturation, and density sculpting built on the Petal Color Model with Mock Theta Basis Weights for independent vector width and asymmetry (Deviation).
+- **[RH Subtractive Mixer](https://renderhub.in/products/rh-subtractive-mixer)** — *Achieve Colors with Cinematic Density.* True subtractive color mixing in physical dye density space with 6 pure-hue shifts, Subtractive Saturation, Lock Luminance, and Shift Sensitivity.
+- **[RH Color Bracket](https://renderhub.in/products/rh-color-bracket)** — *Fastest way to qualify and modify colors.* Surgical geometric hue bracketing without noisy qualifiers, offering asymmetric width, outer softness, density, saturation, and uniform hue forcing.
+- **[RH DRT](https://renderhub.in/products/rh-filmic-colors)** *(Coming Dec 2026)* — *Photochemical pipeline inside a DCTL.* Display Rendering Transform (DRT) delivering filmic density and photochemical color rendering for DaVinci Resolve Studio.
 
 </details>
 
