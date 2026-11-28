@@ -198,6 +198,23 @@ C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\
 
 ---
 
+## 🎛️ RH PowerGrade
+
+RenderHub DCTLs can be used in any user-preferred manner and included at any stage in your color grading pipeline — with the exception of **RH DRT**, which is a Display Rendering Transform taking your image from a working color space to a display space.
+
+Use the starter node tree below as a foundation for grading with RenderHub DCTLs, and feel free to download and modify it as you see fit.
+
+<p align="center">
+  <a href="https://renderhub.in/docs/powergrades">
+    <img src="assets/RH_PowerGrade_NodeTree.png" alt="RH PowerGrade Starting Node Tree for DaVinci Resolve Studio" width="100%" />
+  </a>
+</p>
+
+- **Download PowerGrade Files:** Keep both [`RH_PowerGrade.drx`](powergrades/RH_PowerGrade.drx) and [`RH_PowerGrade.dpx`](powergrades/RH_PowerGrade.dpx) together in the same folder, then right-click inside DaVinci Resolve's **Gallery › PowerGrades** bin and choose **Import...**
+- **Workflow Guide:** [PowerGrades Documentation on renderhub.in](https://renderhub.in/docs/powergrades)
+
+---
+
 ## 📖 Documentation
 
 Full usage documentation, control references, and workflow guidance are available on the [**RenderHub Website**](https://renderhub.in/docs).
