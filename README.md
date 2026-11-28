@@ -64,13 +64,13 @@
       <a href="https://renderhub.in/products/rh-hue-bender">
         <img src="assets/RH-Hue-Bender.png" alt="RH Hue Bender" width="160" />
       </a><br />
-      <sub><strong>RH Hue Bender</strong></sub>
+      <sub><strong>RH Hue Bender</strong><br /><em>(Coming Dec 2026)</em></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://renderhub.in/products/rh-petal-huesatden-mt">
         <img src="assets/RH-Petal-HueSatDen-MT.png" alt="RH Petal Hue Sat Den MT" width="160" />
       </a><br />
-      <sub><strong>RH Petal Hue Sat Den MT</strong></sub>
+      <sub><strong>RH Petal Hue Sat Den MT</strong><br /><em>(Coming Dec 2026)</em></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://renderhub.in/products/rh-subtractive-mixer">
@@ -101,8 +101,8 @@
 - **[RH Hue Compressor](https://renderhub.in/products/rh-hue-compressor)** — *Pure Hue or a Magical hue number, you choose.* Compresses stray hues proportionally toward custom target angles in a polar chromaticity model with per-vector center offset and range controls.
 - **[RH Hybrid Dye Engine](https://renderhub.in/products/rh-hybrid-dye-engine)** — *Quick fire DCTL for Digital and Film looks alike.* Density-dependent crossfade fusing spectral film dye simulation (multi-layer emulsion, DIR couplers, halation, silver retention) with a clean additive digital tone curve.
 - **[RH Contrast Shaper](https://renderhub.in/products/rh-contrast-shaper)** *(formerly RH MidControl)* — *Photometric Exposure & C2 Pivoted Contrast Engine.* Adjust photometric DI exposure in stops, pivot Linear or C2 S-Curve contrast around any user-definable Mid Point, and sculpt toe/shoulder roll-off with Luma Only mode.
-- **[RH Hue Bender](https://renderhub.in/products/rh-hue-bender)** — *Control the Low, Mid & High hues with precision.* Directional hue sculpting across 6 hue vectors and 3 tonal zones in customized HRO space (Fixed & Native models) with zone softness and a built-in palette visualizer.
-- **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-huesatden-mt)** — *Proprietary Color Model for accurate Look Development.* Six-vector hue, saturation, and density sculpting built on the Petal Color Model with Mock Theta Basis Weights for independent vector width and asymmetry (Deviation).
+- **[RH Hue Bender](https://renderhub.in/products/rh-hue-bender)** *(Coming Dec 2026)* — *Control the Low, Mid & High hues with precision.* Directional hue sculpting across 6 hue vectors and 3 tonal zones in customized HRO space (Fixed & Native models) with zone softness and a built-in palette visualizer.
+- **[RH Petal Hue Sat Den MT](https://renderhub.in/products/rh-petal-huesatden-mt)** *(Coming Dec 2026)* — *Proprietary Color Model for accurate Look Development.* Six-vector hue, saturation, and density sculpting built on the Petal Color Model with Mock Theta Basis Weights for independent vector width and asymmetry (Deviation).
 - **[RH Subtractive Mixer](https://renderhub.in/products/rh-subtractive-mixer)** — *Achieve Colors with Cinematic Density.* True subtractive color mixing in physical dye density space with 6 pure-hue shifts, Subtractive Saturation, Lock Luminance, and Shift Sensitivity.
 - **[RH Color Bracket](https://renderhub.in/products/rh-color-bracket)** — *Fastest way to qualify and modify colors.* Surgical geometric hue bracketing without noisy qualifiers, offering asymmetric width, outer softness, density, saturation, and uniform hue forcing.
 - **[RH DRT](https://renderhub.in/rh-drt)** *(Coming Dec 2026)* — *Photochemical pipeline inside a DCTL.* Display Rendering Transform (DRT) delivering filmic density and photochemical color rendering for DaVinci Resolve Studio.
