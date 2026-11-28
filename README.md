@@ -124,7 +124,7 @@ These are not presets, LUT packs, or one-click film looks.
   <a href="https://www.youtube.com/c/SenthilManikandan">
     <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" />
   </a>
-  <a href="https://discord.gg/QZKHgUba8">
+  <a href="https://discord.gg/AfhBtwaHGS">
     <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
   <a href="https://www.instagram.com/colorwizard_30">
